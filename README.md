@@ -1,5 +1,5 @@
 # WhatchuSay🤔
-Exfiltrate iMessage “chat.db” file that contains the messages on a given Mac. Jailbroken iPhones are vulnerable to an attack like such.
+Exfiltrate iMessages using a Digispark usb on a Mac computer. Jailbroken iPhones are vulnerable to an attack like such.
 Essentially, spy on a victim by stealing there file that contains their text messages. 
 ```
       _        ,..
