@@ -58,4 +58,4 @@ To open the file you just sneakily extracted, use SQLite3, or any sql for that m
 </p>
 
 ---
-⭐️ From [Gabe](https://github.com/CharlesTheGreat77)
+⭐️ From [Charles](https://github.com/CharlesTheGreat77)
